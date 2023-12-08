@@ -1,0 +1,12 @@
+{
+  "name": "show-do-milhao",
+  "version": "1.0.0",
+  "description": "Jogo do Milhão",
+  "main": "show_do_milhao.js",
+  "scripts": {
+    "start": "node show_do_milhao.js"
+  },
+  "author": "Hugo Leonardo Viana",
+  "license": "MIT",
+  "keywords": []
+}
