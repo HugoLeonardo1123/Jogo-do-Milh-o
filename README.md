@@ -49,8 +49,6 @@ https://www.devmedia.com.br/guia/javascript/34372
 
 https://www.w3schools.com/js/default.asp
 
-https://www.javascripttutorial.net/javascript-dom/
-
 ## 5. Licença do projeto
 Licença MIT
 
