@@ -12,7 +12,7 @@ let premioMaximo = 1000000; // Limite máximo de premiação
 let totalAcumulado = 0; // Adicionando uma variável para acumular o prêmio total
 
 const perguntas = [
-  // ... (suas perguntas aqui)
+  // Perguntas do jogo
   {
     pergunta: 'Qual é a capital do Japão?',
     alternativas: ['A) Pequim', 'B) Seul', 'C) Tóquio'],
